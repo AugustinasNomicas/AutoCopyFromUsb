@@ -15,7 +15,7 @@ namespace AutoCopyFromUsb
             InitializeComponent();
             _usbDetection = new UsbDetection();
             _targetDirectory = Path.Combine(Directory.GetCurrentDirectory(), "CopiedFiles");
-            Console.WriteLine(@"Filter: {0} Target: {1}", Filter, _targetDirectory);
+            lblStatus.Text = String.Format(@"Filter: {0} Target: {1}", Filter, _targetDirectory);
         }
 
         protected override void WndProc(ref Message m)
