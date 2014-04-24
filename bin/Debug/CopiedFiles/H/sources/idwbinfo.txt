@@ -1,7 +1,0 @@
-[BUILDINFO]
-BuildArch=x86
-BuildType=fre
-BuildBranch=win7sp1_rtm
-OfficialBuild=TRUE
-MainBuild=FALSE
-Coverage=FALSE
