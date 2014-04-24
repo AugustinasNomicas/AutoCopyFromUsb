@@ -1,0 +1,8 @@
+D:\[Projects]\Misc\AutoCopyFromUsb\bin\Debug\AutoCopyFromUsb.exe
+D:\[Projects]\Misc\AutoCopyFromUsb\bin\Debug\AutoCopyFromUsb.pdb
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.csprojResolveAssemblyReference.cache
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.MainForm.resources
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.Properties.Resources.resources
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.csproj.GenerateResource.Cache
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.exe
+D:\[Projects]\Misc\AutoCopyFromUsb\obj\Debug\AutoCopyFromUsb.pdb
